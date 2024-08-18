@@ -33,7 +33,7 @@ Welcome to the Food Delivery Website! This project is a web application that all
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/yuvraj-jindal/Food-delivery-software.git`
+1. Clone the repository: `git clone https://github.com/Ayocodes24/Food-delivery-software.git`
 2. Navigate to the project directory: `cd food-delivery-website`
 
 ## Database Setup
